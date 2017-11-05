@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dive_Type1", "Dive_Type1.csproj", "{E1F6110C-3DFF-A6B1-4330-9984A5AC6ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dive_Type1.Editor", "Dive_Type1.Editor.csproj", "{9A552E1E-A43D-FD11-B8B2-5F76719F5310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F6110C-3DFF-A6B1-4330-9984A5AC6ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F6110C-3DFF-A6B1-4330-9984A5AC6ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F6110C-3DFF-A6B1-4330-9984A5AC6ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F6110C-3DFF-A6B1-4330-9984A5AC6ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A552E1E-A43D-FD11-B8B2-5F76719F5310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A552E1E-A43D-FD11-B8B2-5F76719F5310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A552E1E-A43D-FD11-B8B2-5F76719F5310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A552E1E-A43D-FD11-B8B2-5F76719F5310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
